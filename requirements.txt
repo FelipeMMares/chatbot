@@ -1,0 +1,4 @@
+﻿Flask==3.1.1
+ollama==0.5.1
+python-dotenv==1.1.0
+twilio==9.6.3
