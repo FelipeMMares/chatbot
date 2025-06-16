@@ -1,7 +1,5 @@
 [build]
 builder = "python"
-
-[build.env]
 PYTHON_VERSION = "3.12.4"
 
 [start]
