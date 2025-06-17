@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify
 from ollama import Client
-import time
+import os
 from twilio.twiml.messaging_response import MessagingResponse
 
 app = Flask(__name__)
